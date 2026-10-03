@@ -7,6 +7,10 @@
 node_modules/
 dist/
 
+# Composer dependencies and library-local lockfile
+/vendor/
+/composer.lock
+
 # Compiled Java class files
 *.class
 
@@ -48,3 +52,6 @@ Thumbs.db
 *.mov
 *.wmv
 
+# PHP CS Fixer configuration
+/.php-cs-fixer.cache
+/.php-cs-fixer.php
