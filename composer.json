@@ -1,6 +1,7 @@
 {
     "name": "pavlakis/date-utils",
-    "description": "Date and time utilities for Aikido",
+    "description": "Minimal date util for UTC dates.",
+    "license": "MIT",
     "type": "library",
     "require": {
         "php": "~8.5"
